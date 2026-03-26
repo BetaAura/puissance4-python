@@ -16,7 +16,7 @@ class Puissance4GUI:
     def __init__(self, root):
         """Constructeur : initialise la fenêtre, les variables et l'interface."""
         self.root = root
-        self.root.title("Puissance 4 - Projet Personnel")
+        self.root.title("Puissance 4 - VINCENT François")
         self.root.resizable(False, False) # Empêche de redimensionner la fenêtre
         
        
