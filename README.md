@@ -1,6 +1,6 @@
-# 🔴🟡 Puissance 4 - Projet Python (Tkinter)
+#  Puissance 4 - Projet Python (Tkinter)
 
-## 📝 À propos du projet
+##  À propos du projet
 Ce projet est un jeu de **Puissance 4** entièrement jouable, développé en Python. 
 Je l'ai réalisé en autodidacte dans le cadre de ma préparation et de ma réorientation vers le **BUT Informatique**. Mon objectif était de me familiariser avec la logique algorithmique, la manipulation de tableaux à deux dimensions et la Programmation Orientée Objet (POO) avant la rentrée.
 
